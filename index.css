@@ -1,6 +1,7 @@
 div{
-    background-color: lightcoral;
-    height: 500px;
+    background-color: lightgreen;
+    height: fit-content;
+    padding: 70px ;
 }
 header{
     background-color: lightgoldenrodyellow;
